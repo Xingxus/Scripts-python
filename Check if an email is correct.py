@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Nov 14 21:08:19 2015
-
-@author: win
+@author: Xing
 """
 import string
 
